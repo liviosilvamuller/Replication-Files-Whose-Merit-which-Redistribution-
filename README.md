@@ -4,13 +4,13 @@
 
 **Authors:** Livio Silva-Muller, Graziella Moraes Silva, Matias López  
 **Journal:** *Social Forces*  
-**Manuscript ID:** SF-Sep-25-464.R2
+**Manuscript ID:** Forthcoming, 2026
 
 ---
 
 ## Overview
 
-This replication package contains all code and data necessary to reproduce the figures, tables, and appendix materials reported in the manuscript. The analyses are implemented in R and organized across three scripts.
+This replication files contains all code and data necessary to reproduce the figures, tables, and appendix materials reported in the manuscript. The analyses are implemented in R and organized across three scripts.
 
 ---
 
@@ -19,8 +19,6 @@ This replication package contains all code and data necessary to reproduce the f
 | File | Description |
 |------|-------------|
 | `merit_dat.rds` | Processed survey dataset. Starting point for all analyses. Contains 318 elite respondents from Brazil (n = 163) and South Africa (n = 155), surveyed between 2021 and 2023. |
-
-The raw survey data (`elites_2023`) is not included in this package as it contains identifiable information. `merit_dat.rds` is the analysis-ready dataset produced from the raw data and is sufficient to fully replicate all results in the paper and appendix.
 
 ---
 
