@@ -4,7 +4,7 @@
 
 **Authors:** Livio Silva-Muller, Graziella Moraes Silva, Matias López  
 **Journal:** *Social Forces*  
-**Manuscript ID:** Forthcoming, 2026
+**Manuscript:** https://academic.oup.com/sf/advance-article-abstract/doi/10.1093/sf/soag064/8711369?redirectedFrom=fulltext
 
 ---
 
